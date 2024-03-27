@@ -1,13 +1,10 @@
 <div align="center">
 
-# Stormphrax
+# Chess Engine
 
 [![License][license-badge]][license-link]  
 [![GitHub release (latest by date)][release-badge]][release-link]
 [![Commits since latest release][commits-badge]][commits-link]
-
-![LGBTQ+ friendly][lgbtqp-badge]
-![trans rights][trans-rights-badge]
 
 </div>
 
